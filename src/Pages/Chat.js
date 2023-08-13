@@ -45,7 +45,6 @@ function Chat() {
 
 
 
-  const storeMessagesOnChainlink = async 
 
   console.log(data);
   const { auth, state } = useAuth();
